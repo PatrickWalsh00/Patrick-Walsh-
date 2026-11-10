@@ -1,6 +1,7 @@
 1. NFL Wide Receivers vs. Tight Ends: Statistical Analysis
+
 Project Overview:
-This group project focused on analyzing NFL wide receivers (WRs) and tight ends (TEs) to determine which statistical factors contribute most to receiving success. Using statistical analysis, we examined relationships between receiving yards, targets, receptions, touchdowns, and yards per reception. Our goal was to identify whether player performance was primarily influenced by position, efficiency, or overall involvement in the offense.
+This project we focused on analyzing NFL wide receivers (WRs) and tight ends (TEs) to determine which statistical factors contribute most to receiving success. Using statistical analysis, we examined relationships between receiving yards, targets, receptions, touchdowns, and yards per reception. Our goal was to identify whether player performance was primarily influenced by position, efficiency, or overall involvement in the offense.
 
 Key Statistical Findings:
 Correlation Analysis: Receiving yards had strong positive relationships with first downs (r = 0.9621), targets (r = 0.9314), and receptions (r = 0.9161).
@@ -13,6 +14,7 @@ This project strengthened my understanding of correlation analysis, hypothesis t
 Tools Used: JMP (Statistical Analysis Software) and Microsoft PowerPoint.
 
 2. R Programming: Web Scraping with the rvest Package
+
 Project Overview:
 This group project focused on exploring the rvest package in R, which is used for web scraping and extracting information from websites. Our goal was to understand how R can collect, organize, and analyze data directly from online sources. We demonstrated the package's capabilities by extracting information about Star Wars movies, including titles, release dates, directors, and movie descriptions, and organizing the results into a structured dataset.
 
@@ -27,6 +29,7 @@ This project strengthened my understanding of R programming, web scraping, and d
 Tools Used: R, RStudio, and Microsoft PowerPoint.
 
 3. Tableau Public: Data Visualization & Dashboard Portfolio
+
 Project Overview:
 My Tableau Public portfolio showcases various data visualization projects focused on transforming raw datasets into interactive dashboards and meaningful business insights. These projects explore topics such as gender pay gaps, financial lending trends, and other statistical comparisons. The primary goal was to analyze data, identify patterns, and communicate findings through visually appealing and easy-to-understand dashboards.
 
@@ -39,6 +42,7 @@ These projects strengthened my ability to transform datasets into meaningful vis
 Tools Used: Tableau Desktop and Tableau Public.
 
 4. Marketing Analytics: Social Media & Advertising Performance
+
 Project Overview:
 This group project focused on analyzing the effectiveness of different advertising platforms on Chipotle's sales performance. Using marketing mix modeling and regression analysis, we examined how advertising spending across social media, television, banner ads, and podcasts influenced sales. Our primary goal was to identify which advertising channels contributed most to sales and determine how Chipotle could strategically allocate an additional $10,000 in advertising spending to maximize predicted sales.
 
@@ -54,6 +58,7 @@ Tools Used: Microsoft Excel (Regression Analysis and Budget Allocation).
 
 
 5. Hurricane Sandy: Media Bias Analysis
+
 Project Overview:
 This group presentation examined the devastating impact of Hurricane Sandy in 2012, which caused approximately $70 billion in damages, particularly affecting New York and New Jersey. Our goal was to analyze how news articles, government reports, and third-party sources presented information about the storm and how different cognitive biases influenced public perception, preparedness, and recovery efforts.
 
